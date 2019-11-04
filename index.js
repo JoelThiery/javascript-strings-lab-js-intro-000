@@ -1,5 +1,5 @@
 titi
-var greeting = "";
+var greeting = "mom";
 
 var specialGuest = "Neil deGrasse Tyson"
 
